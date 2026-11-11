@@ -1,3 +1,12 @@
 {
-  "avisos": []
+  "avisos": [
+    {
+      "id": "2026-11-11-em-breve",
+      "titulo": "Em breve!!",
+      "texto": "",
+      "imagem": "2026-11-11-em-breve.png",
+      "inicio": "2026-11-11",
+      "fim": "2026-11-18"
+    }
+  ]
 }
