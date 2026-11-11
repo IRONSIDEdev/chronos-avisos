@@ -1,12 +1,3 @@
 {
-  "avisos": [
-    {
-      "id": "2026-11-11-fiquem-de-olho",
-      "titulo": "Fiquem de olho!!!",
-      "texto": "",
-      "imagem": "2026-11-11-fiquem-de-olho.png",
-      "inicio": "2026-11-11",
-      "fim": "2026-11-18"
-    }
-  ]
+  "avisos": []
 }
