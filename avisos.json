@@ -1,6 +1,14 @@
 {
   "avisos": [
     {
+      "id": "2026-11-11-ouca-a-musica-de-sua-escolha",
+      "titulo": "Ouça a musica de sua escolha!",
+      "texto": "",
+      "imagem": "2026-11-11-ouca-a-musica-de-sua-escolha-54994961.png",
+      "inicio": "2026-11-11",
+      "fim": "2026-11-18"
+    },
+    {
       "id": "2026-11-11-em-breve",
       "titulo": "Em breve!!",
       "texto": "",
