@@ -1,6 +1,14 @@
 {
   "avisos": [
     {
+      "id": "2026-11-14-lembrando-que-pode-haver-bugs",
+      "titulo": "Lembrando que pode haver Bugs",
+      "texto": "",
+      "imagem": "2026-11-14-lembrando-que-pode-haver-bugs-dc63864c.png",
+      "inicio": "2026-11-14",
+      "fim": "2026-11-21"
+    },
+    {
       "id": "2026-11-11-em-breve",
       "titulo": "Em breve!!",
       "texto": "",
